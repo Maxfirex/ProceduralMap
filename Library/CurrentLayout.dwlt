@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 471}
   m_MaxSize: {x: 10002, y: 14021}
   vertical: 1
-  controlID: 103
+  controlID: 116
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 711, y: 471}
   m_MaxSize: {x: 18006, y: 14021}
   vertical: 0
-  controlID: 123
+  controlID: 40
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -260,7 +260,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 342}
   m_MaxSize: {x: 4004, y: 8042}
   vertical: 1
-  controlID: 64
+  controlID: 41
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -614,11 +614,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.025181346, y: 0.71965057, z: -0.69338226, w: 0.026134934}
     speed: 2
-    m_Value: {x: 0.025181435, y: 0.71965307, z: -0.6933847, w: 0.026135026}
+    m_Value: {x: 0.025181344, y: 0.71965057, z: -0.6933822, w: 0.026134934}
   m_Size:
-    m_Target: 724.4602
+    m_Target: 451.6128
     speed: 2
-    m_Value: 724.4602
+    m_Value: 451.6128
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -710,18 +710,18 @@ MonoBehaviour:
     m_ExpandedIDs: ffffffff00000000ea290000522b00003e2c00004e2c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: TextureGenerator
+      m_OriginalName: TextureGenerator
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 11554
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 2}
     m_SearchString: 
